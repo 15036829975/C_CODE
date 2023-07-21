@@ -1,0 +1,3 @@
+﻿  源.c
+D:\Code\Project_07_22\Project_07_22\源.c(57,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  Project_07_22.vcxproj -> D:\Code\Project_07_22\Debug\Project_07_22.exe
