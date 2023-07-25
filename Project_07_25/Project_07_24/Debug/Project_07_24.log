@@ -1,0 +1,5 @@
+﻿  game.c
+  源.c
+  正在生成代码...
+D:\Code\Project_07_25\Project_07_24\game.c(119): warning C4715: “IsFull”: 不是所有的控件路径都返回值
+  Project_07_24.vcxproj -> D:\Code\Project_07_25\Debug\Project_07_24.exe
